@@ -48,6 +48,8 @@ An image fetched from the web:
 <!-- html way -->
 <img src="img/surftemp_ARCTIC24.png" style="width: 50%;"/>
 
+.cite[cite test]
+
 ---
 
 ## Math equations
