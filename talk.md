@@ -39,7 +39,9 @@ An image fetched from the web:
 
 ![Sample image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Young_Cicero_Reading.jpg/316px-The_Young_Cicero_Reading.jpg)
 
-A local file
+---
+
+## Local image
 <!-- Need to fit if using markdown -->
 <!-- ![Surface](img/surface.jpg) -->
 
