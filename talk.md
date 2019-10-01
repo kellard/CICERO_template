@@ -51,6 +51,10 @@ An image fetched from the web:
 
 ---
 
+## Local image (2/2)
+
+<img src="img/surftemp_ARCTIC24.png" style="width: 70%;"/>
+
 ## Math equations
 `\(E = mc^2\)`
 `$$ \Gamma(t) = \pi \, \Im\left\{ \mathbf{x}_+^H(t) \, \frac{\mathrm{d}}{\mathrm{d} t}\mathbf{x}_+(t) \right\} $$`
