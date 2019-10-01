@@ -44,7 +44,8 @@ A local file
 <!-- ![Surface](img/surface.jpg) -->
 
 <!-- html way -->
-<img src="/img/surface.jpg" style="width:200px;height:200px;">
+<!-- <img src="img/surface.jpg" style="width:200px;height:200px;"/> -->
+<img src="img/surface.jpg" style="width: 50%;"/>
 
 ---
 
