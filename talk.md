@@ -58,6 +58,8 @@ An image fetched from the web:
   Your browser does not support HTML5 video.
 </video>
 
+---
+
 ## Math equations
 `\(E = mc^2\)`
 `$$ \Gamma(t) = \pi \, \Im\left\{ \mathbf{x}_+^H(t) \, \frac{\mathrm{d}}{\mathrm{d} t}\mathbf{x}_+(t) \right\} $$`
