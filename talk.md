@@ -46,14 +46,7 @@ An image fetched from the web:
 <!-- ![Surface](img/surface.jpg) -->
 
 <!-- html way -->
-<!-- <img src="img/surface.jpg" style="width:200px;" /> -->
-<img src="img/surface.jpg" style="width:10%;" />
-
----
-
-## Local image (2/2)
-
-<img src="img/surftemp_ARCTIC24.png" style="width: 30%;"/>
+<img src="img/surftemp_ARCTIC24.png" style="width: 50%;"/>
 
 ---
 
