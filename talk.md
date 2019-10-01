@@ -53,7 +53,9 @@ An image fetched from the web:
 
 ## Local image (2/2)
 
-<img src="img/surftemp_ARCTIC24.png" style="width: 70%;"/>
+<img src="img/surftemp_ARCTIC24.png" style="width: 30%;"/>
+
+---
 
 ## Math equations
 `\(E = mc^2\)`
