@@ -46,9 +46,9 @@ An image fetched from the web:
 <!-- ![Surface](img/surface.jpg) -->
 
 <!-- html way -->
-<img src="img/surftemp_ARCTIC24.png" style="width: 50%;"/>
+<img src="img/surftemp_ARCTIC24.png" style="width: 80%;"/>
 
-.cite[cite test]
+.cite[Lindstedt et. al., Tellus (2015)]
 
 ---
 
