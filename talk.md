@@ -64,3 +64,49 @@ An image fetched from the web:
 `\(E = mc^2\)`
 `$$ \Gamma(t) = \pi \, \Im\left\{ \mathbf{x}_+^H(t) \, \frac{\mathrm{d}}{\mathrm{d} t}\mathbf{x}_+(t) \right\} $$`
 
+---
+
+## Unravel text
+
+- figure 1
+
+---
+
+count: false
+## Unravel text
+
+- figure 1
+- figure 2
+
+---
+
+count: false
+## Unravel text
+
+- figure 1
+- figure 2
+- figure 3
+
+---
+
+## Unravel text (better way, not solved)
+use countIncrementalSlides see
+
+https://github.com/gnab/remark/wiki/Markdown#count
+
+- figure 1
+
+--
+- figure 2
+
+--
+- figure 3
+
+---
+
+## Slide notes
+
+- Press P, to get presentation mode and see if you have any notes..
+
+???
+This is my notes and only visible to me..
