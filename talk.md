@@ -42,10 +42,6 @@ An image fetched from the web:
 ---
 
 ## Local image
-<!-- Need to fit if using markdown -->
-<!-- [Surface](img/surface.jpg) -->
-
-<!-- html way -->
 <img src="img/surftemp_ARCTIC24.png" style="width: 60%;"/>
 
 .cite[Lindstedt et. al., Tellus (2015)]
