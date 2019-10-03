@@ -1,8 +1,19 @@
-class: center, middle
+class: center, middle, inverse
 
 # Simple example presentation
 
-## Author
+David Lindstedt, SMHI
+
+<!--
+[comment]: # this doesn't work good footer stretches out of slide.
+
+layout: true
+
+<div id="footer-content">
+    <img src="img/SMHIlogo.png" style="width: 50px;"/>
+    David Lindstedt
+</div>
+-->
 
 ---
 
@@ -12,6 +23,26 @@ Try **F** and **P** keys.
 
 - A bullet point
 - Another convincing argument
+
+---
+
+## Slide with two columns
+
+.left-column[
+## Left heading
+
+- Some
+- Bullet
+- Points
+]
+
+.right-column[
+## Right heading
+
+- Other
+- Interesting
+- Bullet points
+]
 
 ---
 
@@ -45,6 +76,14 @@ An image fetched from the web:
 <img src="img/surftemp_ARCTIC24.png" style="width: 60%;"/>
 
 .cite[Lindstedt et. al., Tellus (2015)]
+
+---
+
+background-image: url(img/neverforget.jpg)
+class: background
+
+# Background image
+
 
 ---
 

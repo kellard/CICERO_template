@@ -1,3 +1,17 @@
+.header-content {
+  background: #FFFFFF;
+  position: absolute;
+  width: 100%;
+  top: 0em;
+}
+
+#footer-content {
+  background: LightGray;
+  position: absolute;
+  width: 100%;
+  bottom: 0em;
+}
+
 h1 {
   color: #4a235a;
 }
@@ -25,7 +39,8 @@ a {
 }
 
 .background h1 {
-  color: #e8daef;
+  color: #a3e4d7;
+  /*color: #e8daef;*/
 }
 
 .left-column {
