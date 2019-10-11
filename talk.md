@@ -4,25 +4,36 @@ class: center, middle, inverse
 
 David Lindstedt, SMHI
 
-<!--
-[comment]: # this doesn't work good footer stretches out of slide.
+---
 
-layout: true
+<!-- use layout: true to set to all slides, no need for a headline like here -->
+## Header and Footer
+
+use layout; true to set header and footer to all slides.
+
+
+.header-content[Template presentation header example]
 
 <div id="footer-content">
-    <img src="img/SMHIlogo.png" style="width: 50px;"/>
-    David Lindstedt
+    <p>
+        <img src="img/SMHIlogo.png" style="width: 50px;"/>
+        David Lindstedt
+    </p>
 </div>
--->
 
 ---
 
-## Another slide
+# "Modes"
 
-Try **F** and **P** keys.
+## Subheading
 
-- A bullet point
-- Another convincing argument
+### subsubheading
+
+Try **F**, **C** and **P** keys.
+
+- F: Full screen
+- C: Clone presentation, dual monitors
+- P: Presentaion mode; try **C** and then **P**
 
 ---
 
@@ -84,13 +95,11 @@ class: background
 
 # Background image
 
-
 ---
 
 ## Videos
 <video width="400" controls>
   <source src="img/mov_bbb.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
 </video>
 
 ---
@@ -102,32 +111,6 @@ class: background
 ---
 
 ## Unravel text
-
-- figure 1
-
----
-
-count: false
-## Unravel text
-
-- figure 1
-- figure 2
-
----
-
-count: false
-## Unravel text
-
-- figure 1
-- figure 2
-- figure 3
-
----
-
-## Unravel text (better way, not solved)
-use countIncrementalSlides see
-
-https://github.com/gnab/remark/wiki/Markdown#count
 
 - figure 1
 

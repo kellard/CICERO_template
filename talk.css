@@ -1,8 +1,16 @@
+/* General slide contents */
+/*
+.remark-slide-content {
+    background-color: LightGray
+}
+*/
 .header-content {
-  background: #FFFFFF;
+  background: LightGray;
   position: absolute;
   width: 100%;
   top: 0em;
+  left: 0em;
+  text-indent: 0.5em;
 }
 
 #footer-content {
@@ -10,6 +18,8 @@
   position: absolute;
   width: 100%;
   bottom: 0em;
+  left: 0em;
+  text-indent: 0.5em;
 }
 
 h1 {
